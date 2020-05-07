@@ -76,7 +76,18 @@ Input: 7
 Output: 0
 Explanation: 7 is "111" in binary, with complement "000" in binary, which is 0 in base-10.
 
+### Day 5 - First Unique Character in a String
 
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+**Examples:**
+
+s = "leetcode"
+return 0.
+
+s = "loveleetcode",
+return 2.
+Note: You may assume the string contain only lowercase letters.
 
 
 
